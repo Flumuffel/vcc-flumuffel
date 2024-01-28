@@ -5,6 +5,9 @@ on:
   push:
     branches: main
     paths: source.json
+  schedule:
+    # Täglich um 09:00 Uhr UTC
+    - cron: '0 2 * * *'
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
