@@ -14,12 +14,18 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "flumuffel/vcc-flumuffel-poiyomi",
         "flumuffel/vcc-flumuffel-goloco",
-        "kurotu/VRCQuestTools",
-        "VRCFury/VRCFury"
+        "kurotu/VRCQuestTools"
     ],
     "packages":[
-        
+        {
+            "name": "com.vrcfury.vrcfury",
+            "releases": [
+                "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury/1.710.0/com.vrcfury.vrcfury-1.710.0-vcc.zip",
+                "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury/1.709.0/com.vrcfury.vrcfury-1.709.0-vcc.zip",
+                "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury/1.708.0/com.vrcfury.vrcfury-1.708.0-vcc.zip",
+                "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury/1.707.0/com.vrcfury.vrcfury-1.707.0-vcc.zip"
+            ]
+        }
     ]
 }
