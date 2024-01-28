@@ -15,7 +15,8 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "flumuffel/vcc-flumuffel-goloco",
-        "kurotu/VRCQuestTools"
+        "kurotu/VRCQuestTools",
+        "poiyomi/PoiyomiToonShader"
     ],
     "packages":[
         {
