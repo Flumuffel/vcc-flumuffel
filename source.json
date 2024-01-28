@@ -16,6 +16,7 @@
     "githubRepos":[
         "flumuffel/vcc-flumuffel-poiyomi",
         "flumuffel/vcc-flumuffel-goloco",
+        "kurotu/VRCQuestTools",
         "VRCFury/VRCFury"
     ],
     "packages":[
