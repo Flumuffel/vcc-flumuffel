@@ -15,7 +15,8 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "flumuffel/vcc-flumuffel-poiyomi",
-        "flumuffel/vcc-flumuffel-goloco"
+        "flumuffel/vcc-flumuffel-goloco",
+        "VRCFury/VRCFury"
     ],
     "packages":[
         
